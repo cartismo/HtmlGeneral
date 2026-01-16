@@ -1,0 +1,13 @@
+{
+    "name": "HtmlGeneral",
+    "alias": "htmlgeneral",
+    "description": "Multilingual HTML content blocks for various theme positions",
+    "keywords": ["html", "content", "blocks", "wysiwyg", "editor", "multilingual"],
+    "priority": 0,
+    "providers": [
+        "Modules\\HtmlGeneral\\Providers\\HtmlGeneralServiceProvider"
+    ],
+    "files": [],
+    "version": "1.0.0",
+    "type": "general"
+}
